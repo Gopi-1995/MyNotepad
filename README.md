@@ -1,3 +1,2 @@
-# MyNotepad
-Intune Notes.
-Enrolling Android devices.
+Device Restrictions:
+Device Category
